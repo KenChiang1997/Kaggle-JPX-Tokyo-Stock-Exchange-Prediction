@@ -6,7 +6,7 @@ https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction/data
 
 - 2.) DataSet(Stock_Price/Option/Trade) EDA
 
-      - 2.1) Stock_Price Data Visulization with Ploty (First Look at the Stock Price Data.ipynb)
+      - 2.1) Stock_Price Data Visulization with Ploty (First Look at the StockPrice Data.ipynb)
       
 <img width="1084" alt="Screen Shot 2023-01-06 at 10 51 58 AM" src="https://user-images.githubusercontent.com/80143995/210920413-e30cfe55-9ddf-4fad-9e69-726c478c13fa.png">
       
