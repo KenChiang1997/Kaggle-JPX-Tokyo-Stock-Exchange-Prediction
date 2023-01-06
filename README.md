@@ -2,7 +2,7 @@
 
 - 1.) For the train_file data, please see the following data sources: https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction/data
 
-- 2.) DataSet(Stock_Price/Option/Trade) EDA
+- 2.) Explore Data Analysis (Stock_Price/Option/Trade)
 
       - 2.1) Stock_Price Data Visulization with Ploty (First Look at the StockPrice Data.ipynb)
       
